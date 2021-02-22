@@ -1,0 +1,91 @@
+html {
+    scroll-behavior: smooth
+}
+
+body {
+    text-align: center;
+    background: background: rgb(2, 0, 36);
+    background: linear-gradient(90deg, rgba(2, 0, 36, 1) 0%, rgba(171, 0, 255, 1) 37%, rgba(0, 212, 255, 1) 100%);
+    background-reapeat: no-repeat;
+}
+
+h1 {
+    text-shadow: 2px 2px #F8BBD0;
+    font-size: 30px;
+    text-align: center;
+    padding-top: 50px;
+    padding-bottom: 10px;
+}
+
+img {
+    border-radius: 50%;
+    width: 200px;
+    height: 200px;
+}
+
+p {
+    font-size: 23px;
+    font-family: sans-serif;
+}
+
+li {
+    display: inline;
+    padding: 8px;
+    font-size: 25px;
+    float: right;
+    color: white;
+    font-family: monospace;
+}
+
+li:hover {
+    background-color: lightcoral;
+}
+
+.menu {
+    cursor: pointer;
+    top: 10px;
+    right: 30px;
+    position: fixed;
+}
+
+#sp {
+    padding-left: 100px;
+}
+
+#sp2 {
+    padding-left: 220px;
+}
+
+#ryb {
+    padding-bottom: 10px;
+}
+
+#zach {
+    padding-bottom: 10px;
+}
+
+button {
+    height: 50px;
+    width: 100px;
+    background-color: #4CAF50;
+    color: white;
+    text-align: center;
+    font-size: 16px;
+}
+
+h2 {
+    color: white;
+}
+
+#home {
+    padding-bottom: 20px;
+}
+
+#My Videos {
+    padding-bottom: 20px;
+}
+
+
+#Inspiration {
+    padding-bottom: 50px;
+}
